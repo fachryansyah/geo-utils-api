@@ -1,10 +1,9 @@
 {
-  "name": "geocoding-api",
+  "name": "geo-utils-api",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "geo-utils.js",
   "scripts": {
-    "start": "node index.js",
     "example:api": "node examples/rest-api/index.js",
     "example:cli": "node examples/cli/index.js"
   },
