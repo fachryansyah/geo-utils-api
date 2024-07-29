@@ -1,14 +1,18 @@
 {
   "name": "geo-utils-api",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "Geo Utils Api: help you to save your usage billing of maps apis, this library can find a place with sugesstions by query & can take looks the lat-long position based on addresses.",
   "main": "geo-utils.js",
   "scripts": {
     "example:api": "node examples/rest-api/index.js",
     "example:cli": "node examples/cli/index.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["Maps", "Gmaps API", "Geo Utils"],
+  "author": "Muhammad Fahriansyah",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fachryansyah/geo-utils-api.git"
+  },
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
