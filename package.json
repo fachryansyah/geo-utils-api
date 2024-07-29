@@ -1,0 +1,19 @@
+{
+  "name": "geocoding-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "example:api": "node examples/rest-api/index.js",
+    "example:cli": "node examples/cli/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "puppeteer-core": "^22.10.0"
+  }
+}
