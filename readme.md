@@ -14,6 +14,7 @@ $ yarn i geo-utils-api
 
 ## Usage
 ```js
+const geoUtils = require('geo-utils-api');
 const instance = new geoUtils({
     executablePath: "/Applications/Thorium.app/Contents/MacOS/Thorium", // your chrome path
     timeout: 1000 // timeout navigation
