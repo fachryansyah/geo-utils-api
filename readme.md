@@ -1,7 +1,7 @@
 # Geo Utils API
-Geo Utils Api: help you to save your usage billing of maps apis, this library can find a place with sugesstions by query & can take looks the lat-long position based on addresses.
+Geo Utils Api: helps you to save your usage billing of maps APIs, this library can find a place with suggestions by query & can take a look at the lat-long position based on addresses.
 
-This library using puppeteer-core as scrapper so you need install the browser first, and passing the executable path to the argument.
+This library uses puppeteer-core as a scrapper, so you must install the browser first and pass the executable path to the argument.
 
 ## Installation
 ```bash
@@ -9,7 +9,7 @@ $ npm i geo-utils-api
 ```
 or
 ```bash
-$ yarn i geo-utils-api
+$ yarn add geo-utils-api
 ```
 
 ## Usage
